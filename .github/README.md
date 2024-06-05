@@ -40,7 +40,7 @@
 
 
 <p align="center">
-<a href="https://t.me/dragondpworld"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 Farzicoderxd%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Farzicoderxd"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 Farzicoderxd%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
 <a href="https://telegram.me/ITSZ_Farzicoderxd"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 Farzicoderxd%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
